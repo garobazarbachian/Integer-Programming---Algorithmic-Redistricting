@@ -1,93 +1,93 @@
-﻿Row,County,District,Latitude,Longitude,White Alone,Black Alone,American Ind. or Alaskan Native Alone,Asian Alone,Native Hawaiian and Other Pac. Isl. Alone,Two or More Races,Total,% White
-59,Marion County,7,39.78,-86.15,599905,290447,4474,42260,473,31907,969466,62%
-1,Lake County,1,41.42,-87.47,354449,122399,2813,8614,335,11079,499689,71%
-14,Allen County,3,41.09,-85.07,307261,46730,1814,21450,465,13729,391449,78%
-37,Hamilton County,5,40.05,-86.01,310066,18714,844,26471,240,8586,364921,85%
-10,St. Joseph County,2,41.62,-86.27,215473,37726,1563,7688,234,9550,272234,79%
-3,Elkhart County,2,41.6,-85.87,184740,12423,1424,2702,192,5409,206890,89%
-33,Tippecanoe County,4,40.39,-86.9,155159,12231,764,15692,116,4755,188717,82%
-28,Hendricks County,4,39.77,-86.51,151322,19698,628,6513,132,4241,182534,83%
-75,Vanderburgh County,8,37.98,-87.58,151876,18498,566,2571,611,5622,179744,84%
-2,Porter County,1,41.46,-87.06,159440,8665,687,2627,75,3297,174791,91%
-85,Johnson County,6,39.49,-86.06,146647,5644,556,9276,152,3507,165782,88%
-87,Monroe County,9,39.16,-86.52,120020,5475,458,9627,116,4049,139745,86%
-38,Madison County,5,40.15,-85.68,115822,11396,604,887,85,2950,131744,88%
-80,Clark County,9,38.48,-85.67,107545,10628,574,1650,160,3680,124237,87%
-40,Delaware County,5,40.19,-85.4,98689,8294,359,1593,73,3023,112031,88%
-6,La Porte County,2,41.61,-86.71,94542,12679,556,768,34,3096,111675,85%
-77,Vigo County,8,39.42,-87.39,93001,7369,446,2294,72,2824,106006,88%
-35,Howard County,5,40.48,-86.11,72484,6859,419,1134,52,2626,83574,87%
-41,Bartholomew County,6,39.2,-85.92,72366,2192,420,6539,88,1935,83540,87%
-46,Hancock County,6,39.82,-85.77,76583,3491,305,1010,42,1639,83070,92%
-5,Kosciusko County,2,41.24,-85.85,76886,1019,405,1250,58,1208,80826,95%
-82,Floyd County,9,38.32,-85.9,72543,4598,323,1110,42,2098,80714,90%
-24,Boone County,4,40.05,-86.47,67294,2184,245,3053,31,1357,74164,91%
-88,Morgan County,4,39.48,-86.44,69788,662,264,558,33,931,72236,97%
-58,Wayne County,6,39.86,-85,59575,3342,268,786,49,2253,66273,90%
-36,Grant County,5,40.52,-85.66,57992,5154,309,583,32,1952,66022,88%
-78,Warrick County,8,38.09,-87.27,60524,1371,199,1829,36,1226,65185,93%
-42,Dearborn County,9,39.14,-84.98,49634,413,128,247,38,678,51138,97%
-47,Henry County,6,39.97,-85.35,46384,1372,110,234,17,798,48915,95%
-19,Noble County,3,41.4,-85.42,45624,569,237,255,33,649,47367,96%
-7,Marshall County,2,41.32,-86.31,44592,439,178,317,51,755,46332,96%
-84,Jackson County,9,38.88,-86.04,43281,720,320,1310,81,588,46300,93%
-86,Lawrence County,9,38.84,-86.48,43726,289,231,299,18,659,45222,97%
-55,Shelby County,6,39.52,-85.77,42922,742,166,418,67,676,44991,95%
-15,De Kalb County,3,41.4,-84.98,42405,317,156,230,30,593,43731,97%
-63,Dubois County,8,38.36,-86.87,42225,468,153,323,72,391,43632,97%
-18,Lagrange County,3,41.64,-85.42,40015,226,133,156,12,324,40866,98%
-83,Harrison County,9,38.19,-86.11,38493,343,135,246,25,609,39851,97%
-30,Montgomery County,4,40.04,-86.89,36696,478,164,339,15,581,38273,96%
-26,Cass County,4,40.74,-86.35,34549,971,504,763,92,661,37540,92%
-32,Putnam County,4,39.62,-86.85,34683,1364,145,464,21,624,37301,93%
-16,Huntington County,3,40.88,-85.5,35516,336,220,260,28,474,36834,96%
-13,Adams County,3,40.75,-84.95,35112,271,150,148,12,375,36068,97%
-66,Knox County,8,38.68,-87.42,33587,1110,139,359,17,577,35789,94%
-8,Miami County,2,40.77,-86.04,32461,1862,345,172,16,818,35674,91%
-20,Steuben County,3,41.64,-85,33475,359,136,279,16,460,34725,96%
-91,Whitley County,3,41.14,-85.5,33492,243,140,186,13,553,34627,97%
-62,Daviess County,8,38.69,-87.05,31661,807,261,162,41,486,33418,95%
-29,Jasper County,4,41.02,-87.12,32272,254,137,157,17,444,33281,97%
-64,Gibson County,8,38.3,-87.58,30928,916,127,216,25,781,32993,94%
-48,Jefferson County,9,38.74,-85.39,31248,711,138,301,45,503,32946,95%
-27,Clinton County,4,40.28,-86.51,31779,314,184,178,17,371,32843,97%
-65,Greene County,8,39.03,-86.95,30223,123,133,139,9,379,31006,97%
-12,Wabash County,2,40.8,-85.82,29693,301,230,179,9,416,30828,96%
-52,Ripley County,9,39.07,-85.26,28180,168,111,243,5,380,29087,97%
-21,Wells County,3,40.74,-85.21,27313,304,88,212,15,403,28335,96%
-90,Washington County,9,38.6,-86.1,27487,204,92,85,6,350,28224,97%
-49,Jennings County,9,39.01,-85.62,26651,243,102,102,21,417,27536,97%
-43,Decatur County,9,39.31,-85.48,25395,210,81,390,13,327,26416,96%
-61,Clay County,8,39.39,-87.11,25498,245,102,101,8,425,26379,97%
-72,Posey County,8,38.17,-87.78,24206,281,74,148,6,348,25063,97%
-92,White County,4,40.75,-86.76,23584,316,168,162,13,355,24598,96%
-54,Scott County,9,38.68,-85.77,23767,189,94,225,18,295,24588,97%
-51,Randolph County,6,40.16,-84.98,23611,228,124,104,18,352,24437,97%
-44,Fayette County,6,39.64,-85.18,22503,350,92,94,2,308,23349,96%
-11,Starke County,2,41.28,-86.64,22515,161,122,95,4,361,23258,97%
-45,Franklin County,9,39.41,-85.06,22455,107,70,168,4,224,23028,98%
-68,Owen County,8,39.29,-86.84,20796,143,87,121,1,334,21482,97%
-74,Sullivan County,8,39.09,-87.41,19166,1066,77,63,7,291,20670,93%
-25,Carroll County,4,40.58,-86.56,19916,217,95,57,6,264,20555,97%
-4,Fulton County,2,41.05,-86.26,19504,191,197,143,6,286,20327,96%
-17,Jay County,3,40.44,-84.97,19654,129,53,85,10,267,20198,97%
-73,Spencer County,8,38,-86.92,19355,200,75,75,1,261,19967,97%
-89,Orange County,8,38.55,-86.49,18833,319,92,84,5,290,19623,96%
-70,Perry County,8,38.1,-86.64,18095,627,58,154,14,235,19183,94%
-53,Rush County,6,39.61,-85.45,16140,182,70,66,7,208,16673,97%
-60,Fountain County,8,40.12,-87.23,16046,139,68,88,14,219,16574,97%
-69,Parke County,8,39.77,-87.2,15715,345,86,36,4,183,16369,96%
-79,Brown County,9,39.2,-86.23,14991,132,76,85,3,283,15570,96%
-76,Vermillion County,8,39.85,-87.47,14974,103,61,48,10,255,15451,97%
-39,Tipton County,5,40.28,-86.04,14769,147,50,154,5,236,15361,96%
-31,Newton County,4,40.96,-87.4,13295,165,78,76,21,188,13823,96%
-9,Pulaski County,2,41.04,-86.7,12026,119,62,103,3,172,12485,96%
-71,Pike County,8,38.4,-87.23,11803,102,45,63,8,147,12168,97%
-22,Blackford County,3,40.47,-85.32,11408,127,43,75,4,262,11919,96%
-81,Crawford County,8,38.29,-86.34,10192,94,54,28,12,156,10536,97%
-56,Switzerland County,9,38.82,-85.06,9657,122,50,38,6,133,10006,97%
-67,Martin County,8,38.7,-86.79,9522,62,43,62,2,112,9803,97%
-23,Benton County,4,40.68,-87.31,8389,104,31,24,5,166,8719,96%
-34,Warren County,4,40.35,-87.36,8236,43,34,45,5,98,8461,97%
-57,Union County,6,39.63,-84.92,6695,85,25,28,4,115,6952,96%
-50,Ohio County,9,38.94,-84.96,5934,60,15,19,1,85,6114,97%
+﻿Row_id,county,District,Latitude,Longitude,White Alone,Black Alone,American Ind. or Alaskan Native Alone,Asian Alone,Native Hawaiian and Other Pac. Isl. Alone,Two or More Races,Total,% White,,,
+1,Lake County,1,41.42,-87.47,354449,122399,2813,8614,335,11079,499689,71%,,"'County1': {'population': 499689, 'white': 354449, 'latitude': 41.42, 'longitude': -87.47, 'county_name': 'Lake County'},","'County1': {'population': 499689, 'white': 354449, 'latitude': 41.42, 'longitude': -87.47, 'county_name': 'Lake County'},"
+2,Porter County,1,41.46,-87.06,159440,8665,687,2627,75,3297,174791,91%,,"'County2': {'population': 174791, 'white': 159440, 'latitude': 41.46, 'longitude': -87.06, 'county_name': 'Porter County'},","'County2': {'population': 174791, 'white': 159440, 'latitude': 41.46, 'longitude': -87.06, 'county_name': 'Porter County'},"
+3,Elkhart County,2,41.6,-85.87,184740,12423,1424,2702,192,5409,206890,89%,,"'County3': {'population': 206890, 'white': 184740, 'latitude': 41.6, 'longitude': -85.87, 'county_name': 'Elkhart County'},","'County3': {'population': 206890, 'white': 184740, 'latitude': 41.6, 'longitude': -85.87, 'county_name': 'Elkhart County'},"
+4,Fulton County,2,41.05,-86.26,19504,191,197,143,6,286,20327,96%,,"'County4': {'population': 20327, 'white': 19504, 'latitude': 41.05, 'longitude': -86.26, 'county_name': 'Fulton County'},","'County4': {'population': 20327, 'white': 19504, 'latitude': 41.05, 'longitude': -86.26, 'county_name': 'Fulton County'},"
+5,Kosciusko County,2,41.24,-85.85,76886,1019,405,1250,58,1208,80826,95%,,"'County5': {'population': 80826, 'white': 76886, 'latitude': 41.24, 'longitude': -85.85, 'county_name': 'Kosciusko County'},","'County5': {'population': 80826, 'white': 76886, 'latitude': 41.24, 'longitude': -85.85, 'county_name': 'Kosciusko County'},"
+6,La Porte County,2,41.61,-86.71,94542,12679,556,768,34,3096,111675,85%,,"'County6': {'population': 111675, 'white': 94542, 'latitude': 41.61, 'longitude': -86.71, 'county_name': 'La Porte County'},","'County6': {'population': 111675, 'white': 94542, 'latitude': 41.61, 'longitude': -86.71, 'county_name': 'La Porte County'},"
+7,Marshall County,2,41.32,-86.31,44592,439,178,317,51,755,46332,96%,,"'County7': {'population': 46332, 'white': 44592, 'latitude': 41.32, 'longitude': -86.31, 'county_name': 'Marshall County'},","'County7': {'population': 46332, 'white': 44592, 'latitude': 41.32, 'longitude': -86.31, 'county_name': 'Marshall County'},"
+8,Miami County,2,40.77,-86.04,32461,1862,345,172,16,818,35674,91%,,"'County8': {'population': 35674, 'white': 32461, 'latitude': 40.77, 'longitude': -86.04, 'county_name': 'Miami County'},","'County8': {'population': 35674, 'white': 32461, 'latitude': 40.77, 'longitude': -86.04, 'county_name': 'Miami County'},"
+9,Pulaski County,2,41.04,-86.7,12026,119,62,103,3,172,12485,96%,,"'County9': {'population': 12485, 'white': 12026, 'latitude': 41.04, 'longitude': -86.7, 'county_name': 'Pulaski County'},","'County9': {'population': 12485, 'white': 12026, 'latitude': 41.04, 'longitude': -86.7, 'county_name': 'Pulaski County'},"
+10,St. Joseph County,2,41.62,-86.27,215473,37726,1563,7688,234,9550,272234,79%,,"'County10': {'population': 272234, 'white': 215473, 'latitude': 41.62, 'longitude': -86.27, 'county_name': 'St. Joseph County'},","'County10': {'population': 272234, 'white': 215473, 'latitude': 41.62, 'longitude': -86.27, 'county_name': 'St. Joseph County'},"
+11,Starke County,2,41.28,-86.64,22515,161,122,95,4,361,23258,97%,,"'County11': {'population': 23258, 'white': 22515, 'latitude': 41.28, 'longitude': -86.64, 'county_name': 'Starke County'},","'County11': {'population': 23258, 'white': 22515, 'latitude': 41.28, 'longitude': -86.64, 'county_name': 'Starke County'},"
+12,Wabash County,2,40.8,-85.82,29693,301,230,179,9,416,30828,96%,,"'County12': {'population': 30828, 'white': 29693, 'latitude': 40.8, 'longitude': -85.82, 'county_name': 'Wabash County'},","'County12': {'population': 30828, 'white': 29693, 'latitude': 40.8, 'longitude': -85.82, 'county_name': 'Wabash County'},"
+13,Adams County,3,40.75,-84.95,35112,271,150,148,12,375,36068,97%,,"'County13': {'population': 36068, 'white': 35112, 'latitude': 40.75, 'longitude': -84.95, 'county_name': 'Adams County'},","'County13': {'population': 36068, 'white': 35112, 'latitude': 40.75, 'longitude': -84.95, 'county_name': 'Adams County'},"
+14,Allen County,3,41.09,-85.07,307261,46730,1814,21450,465,13729,391449,78%,,"'County14': {'population': 391449, 'white': 307261, 'latitude': 41.09, 'longitude': -85.07, 'county_name': 'Allen County'},","'County14': {'population': 391449, 'white': 307261, 'latitude': 41.09, 'longitude': -85.07, 'county_name': 'Allen County'},"
+15,De Kalb County,3,41.4,-84.98,42405,317,156,230,30,593,43731,97%,,"'County15': {'population': 43731, 'white': 42405, 'latitude': 41.4, 'longitude': -84.98, 'county_name': 'De Kalb County'},","'County15': {'population': 43731, 'white': 42405, 'latitude': 41.4, 'longitude': -84.98, 'county_name': 'De Kalb County'},"
+16,Huntington County,3,40.88,-85.5,35516,336,220,260,28,474,36834,96%,,"'County16': {'population': 36834, 'white': 35516, 'latitude': 40.88, 'longitude': -85.5, 'county_name': 'Huntington County'},","'County16': {'population': 36834, 'white': 35516, 'latitude': 40.88, 'longitude': -85.5, 'county_name': 'Huntington County'},"
+17,Jay County,3,40.44,-84.97,19654,129,53,85,10,267,20198,97%,,"'County17': {'population': 20198, 'white': 19654, 'latitude': 40.44, 'longitude': -84.97, 'county_name': 'Jay County'},","'County17': {'population': 20198, 'white': 19654, 'latitude': 40.44, 'longitude': -84.97, 'county_name': 'Jay County'},"
+18,Lagrange County,3,41.64,-85.42,40015,226,133,156,12,324,40866,98%,,"'County18': {'population': 40866, 'white': 40015, 'latitude': 41.64, 'longitude': -85.42, 'county_name': 'Lagrange County'},","'County18': {'population': 40866, 'white': 40015, 'latitude': 41.64, 'longitude': -85.42, 'county_name': 'Lagrange County'},"
+19,Noble County,3,41.4,-85.42,45624,569,237,255,33,649,47367,96%,,"'County19': {'population': 47367, 'white': 45624, 'latitude': 41.4, 'longitude': -85.42, 'county_name': 'Noble County'},","'County19': {'population': 47367, 'white': 45624, 'latitude': 41.4, 'longitude': -85.42, 'county_name': 'Noble County'},"
+20,Steuben County,3,41.64,-85,33475,359,136,279,16,460,34725,96%,,"'County20': {'population': 34725, 'white': 33475, 'latitude': 41.64, 'longitude': -85, 'county_name': 'Steuben County'},","'County20': {'population': 34725, 'white': 33475, 'latitude': 41.64, 'longitude': -85, 'county_name': 'Steuben County'},"
+21,Wells County,3,40.74,-85.21,27313,304,88,212,15,403,28335,96%,,"'County21': {'population': 28335, 'white': 27313, 'latitude': 40.74, 'longitude': -85.21, 'county_name': 'Wells County'},","'County21': {'population': 28335, 'white': 27313, 'latitude': 40.74, 'longitude': -85.21, 'county_name': 'Wells County'},"
+22,Blackford County,3,40.47,-85.32,11408,127,43,75,4,262,11919,96%,,"'County22': {'population': 11919, 'white': 11408, 'latitude': 40.47, 'longitude': -85.32, 'county_name': 'Blackford County'},","'County22': {'population': 11919, 'white': 11408, 'latitude': 40.47, 'longitude': -85.32, 'county_name': 'Blackford County'},"
+23,Benton County,4,40.68,-87.31,8389,104,31,24,5,166,8719,96%,,"'County23': {'population': 8719, 'white': 8389, 'latitude': 40.68, 'longitude': -87.31, 'county_name': 'Benton County'},","'County23': {'population': 8719, 'white': 8389, 'latitude': 40.68, 'longitude': -87.31, 'county_name': 'Benton County'},"
+24,Boone County,4,40.05,-86.47,67294,2184,245,3053,31,1357,74164,91%,,"'County24': {'population': 74164, 'white': 67294, 'latitude': 40.05, 'longitude': -86.47, 'county_name': 'Boone County'},","'County24': {'population': 74164, 'white': 67294, 'latitude': 40.05, 'longitude': -86.47, 'county_name': 'Boone County'},"
+25,Carroll County,4,40.58,-86.56,19916,217,95,57,6,264,20555,97%,,"'County25': {'population': 20555, 'white': 19916, 'latitude': 40.58, 'longitude': -86.56, 'county_name': 'Carroll County'},","'County25': {'population': 20555, 'white': 19916, 'latitude': 40.58, 'longitude': -86.56, 'county_name': 'Carroll County'},"
+26,Cass County,4,40.74,-86.35,34549,971,504,763,92,661,37540,92%,,"'County26': {'population': 37540, 'white': 34549, 'latitude': 40.74, 'longitude': -86.35, 'county_name': 'Cass County'},","'County26': {'population': 37540, 'white': 34549, 'latitude': 40.74, 'longitude': -86.35, 'county_name': 'Cass County'},"
+27,Clinton County,4,40.28,-86.51,31779,314,184,178,17,371,32843,97%,,"'County27': {'population': 32843, 'white': 31779, 'latitude': 40.28, 'longitude': -86.51, 'county_name': 'Clinton County'},","'County27': {'population': 32843, 'white': 31779, 'latitude': 40.28, 'longitude': -86.51, 'county_name': 'Clinton County'},"
+28,Hendricks County,4,39.77,-86.51,151322,19698,628,6513,132,4241,182534,83%,,"'County28': {'population': 182534, 'white': 151322, 'latitude': 39.77, 'longitude': -86.51, 'county_name': 'Hendricks County'},","'County28': {'population': 182534, 'white': 151322, 'latitude': 39.77, 'longitude': -86.51, 'county_name': 'Hendricks County'},"
+29,Jasper County,4,41.02,-87.12,32272,254,137,157,17,444,33281,97%,,"'County29': {'population': 33281, 'white': 32272, 'latitude': 41.02, 'longitude': -87.12, 'county_name': 'Jasper County'},","'County29': {'population': 33281, 'white': 32272, 'latitude': 41.02, 'longitude': -87.12, 'county_name': 'Jasper County'},"
+30,Montgomery County,4,40.04,-86.89,36696,478,164,339,15,581,38273,96%,,"'County30': {'population': 38273, 'white': 36696, 'latitude': 40.04, 'longitude': -86.89, 'county_name': 'Montgomery County'},","'County30': {'population': 38273, 'white': 36696, 'latitude': 40.04, 'longitude': -86.89, 'county_name': 'Montgomery County'},"
+31,Newton County,4,40.96,-87.4,13295,165,78,76,21,188,13823,96%,,"'County31': {'population': 13823, 'white': 13295, 'latitude': 40.96, 'longitude': -87.4, 'county_name': 'Newton County'},","'County31': {'population': 13823, 'white': 13295, 'latitude': 40.96, 'longitude': -87.4, 'county_name': 'Newton County'},"
+32,Putnam County,4,39.62,-86.85,34683,1364,145,464,21,624,37301,93%,,"'County32': {'population': 37301, 'white': 34683, 'latitude': 39.62, 'longitude': -86.85, 'county_name': 'Putnam County'},","'County32': {'population': 37301, 'white': 34683, 'latitude': 39.62, 'longitude': -86.85, 'county_name': 'Putnam County'},"
+33,Tippecanoe County,4,40.39,-86.9,155159,12231,764,15692,116,4755,188717,82%,,"'County33': {'population': 188717, 'white': 155159, 'latitude': 40.39, 'longitude': -86.9, 'county_name': 'Tippecanoe County'},","'County33': {'population': 188717, 'white': 155159, 'latitude': 40.39, 'longitude': -86.9, 'county_name': 'Tippecanoe County'},"
+34,Warren County,4,40.35,-87.36,8236,43,34,45,5,98,8461,97%,,"'County34': {'population': 8461, 'white': 8236, 'latitude': 40.35, 'longitude': -87.36, 'county_name': 'Warren County'},","'County34': {'population': 8461, 'white': 8236, 'latitude': 40.35, 'longitude': -87.36, 'county_name': 'Warren County'},"
+35,Howard County,5,40.48,-86.11,72484,6859,419,1134,52,2626,83574,87%,,"'County35': {'population': 83574, 'white': 72484, 'latitude': 40.48, 'longitude': -86.11, 'county_name': 'Howard County'},","'County35': {'population': 83574, 'white': 72484, 'latitude': 40.48, 'longitude': -86.11, 'county_name': 'Howard County'},"
+36,Grant County,5,40.52,-85.66,57992,5154,309,583,32,1952,66022,88%,,"'County36': {'population': 66022, 'white': 57992, 'latitude': 40.52, 'longitude': -85.66, 'county_name': 'Grant County'},","'County36': {'population': 66022, 'white': 57992, 'latitude': 40.52, 'longitude': -85.66, 'county_name': 'Grant County'},"
+37,Hamilton County,5,40.05,-86.01,310066,18714,844,26471,240,8586,364921,85%,,"'County37': {'population': 364921, 'white': 310066, 'latitude': 40.05, 'longitude': -86.01, 'county_name': 'Hamilton County'},","'County37': {'population': 364921, 'white': 310066, 'latitude': 40.05, 'longitude': -86.01, 'county_name': 'Hamilton County'},"
+38,Madison County,5,40.15,-85.68,115822,11396,604,887,85,2950,131744,88%,,"'County38': {'population': 131744, 'white': 115822, 'latitude': 40.15, 'longitude': -85.68, 'county_name': 'Madison County'},","'County38': {'population': 131744, 'white': 115822, 'latitude': 40.15, 'longitude': -85.68, 'county_name': 'Madison County'},"
+39,Tipton County,5,40.28,-86.04,14769,147,50,154,5,236,15361,96%,,"'County39': {'population': 15361, 'white': 14769, 'latitude': 40.28, 'longitude': -86.04, 'county_name': 'Tipton County'},","'County39': {'population': 15361, 'white': 14769, 'latitude': 40.28, 'longitude': -86.04, 'county_name': 'Tipton County'},"
+40,Delaware County,5,40.19,-85.4,98689,8294,359,1593,73,3023,112031,88%,,"'County40': {'population': 112031, 'white': 98689, 'latitude': 40.19, 'longitude': -85.4, 'county_name': 'Delaware County'},","'County40': {'population': 112031, 'white': 98689, 'latitude': 40.19, 'longitude': -85.4, 'county_name': 'Delaware County'},"
+41,Bartholomew County,6,39.2,-85.92,72366,2192,420,6539,88,1935,83540,87%,,"'County41': {'population': 83540, 'white': 72366, 'latitude': 39.2, 'longitude': -85.92, 'county_name': 'Bartholomew County'},","'County41': {'population': 83540, 'white': 72366, 'latitude': 39.2, 'longitude': -85.92, 'county_name': 'Bartholomew County'},"
+42,Dearborn County,9,39.14,-84.98,49634,413,128,247,38,678,51138,97%,,"'County42': {'population': 51138, 'white': 49634, 'latitude': 39.14, 'longitude': -84.98, 'county_name': 'Dearborn County'},","'County42': {'population': 51138, 'white': 49634, 'latitude': 39.14, 'longitude': -84.98, 'county_name': 'Dearborn County'},"
+43,Decatur County,9,39.31,-85.48,25395,210,81,390,13,327,26416,96%,,"'County43': {'population': 26416, 'white': 25395, 'latitude': 39.31, 'longitude': -85.48, 'county_name': 'Decatur County'},","'County43': {'population': 26416, 'white': 25395, 'latitude': 39.31, 'longitude': -85.48, 'county_name': 'Decatur County'},"
+44,Fayette County,6,39.64,-85.18,22503,350,92,94,2,308,23349,96%,,"'County44': {'population': 23349, 'white': 22503, 'latitude': 39.64, 'longitude': -85.18, 'county_name': 'Fayette County'},","'County44': {'population': 23349, 'white': 22503, 'latitude': 39.64, 'longitude': -85.18, 'county_name': 'Fayette County'},"
+45,Franklin County,9,39.41,-85.06,22455,107,70,168,4,224,23028,98%,,"'County45': {'population': 23028, 'white': 22455, 'latitude': 39.41, 'longitude': -85.06, 'county_name': 'Franklin County'},","'County45': {'population': 23028, 'white': 22455, 'latitude': 39.41, 'longitude': -85.06, 'county_name': 'Franklin County'},"
+46,Hancock County,6,39.82,-85.77,76583,3491,305,1010,42,1639,83070,92%,,"'County46': {'population': 83070, 'white': 76583, 'latitude': 39.82, 'longitude': -85.77, 'county_name': 'Hancock County'},","'County46': {'population': 83070, 'white': 76583, 'latitude': 39.82, 'longitude': -85.77, 'county_name': 'Hancock County'},"
+47,Henry County,6,39.97,-85.35,46384,1372,110,234,17,798,48915,95%,,"'County47': {'population': 48915, 'white': 46384, 'latitude': 39.97, 'longitude': -85.35, 'county_name': 'Henry County'},","'County47': {'population': 48915, 'white': 46384, 'latitude': 39.97, 'longitude': -85.35, 'county_name': 'Henry County'},"
+48,Jefferson County,9,38.74,-85.39,31248,711,138,301,45,503,32946,95%,,"'County48': {'population': 32946, 'white': 31248, 'latitude': 38.74, 'longitude': -85.39, 'county_name': 'Jefferson County'},","'County48': {'population': 32946, 'white': 31248, 'latitude': 38.74, 'longitude': -85.39, 'county_name': 'Jefferson County'},"
+49,Jennings County,9,39.01,-85.62,26651,243,102,102,21,417,27536,97%,,"'County49': {'population': 27536, 'white': 26651, 'latitude': 39.01, 'longitude': -85.62, 'county_name': 'Jennings County'},","'County49': {'population': 27536, 'white': 26651, 'latitude': 39.01, 'longitude': -85.62, 'county_name': 'Jennings County'},"
+50,Ohio County,9,38.94,-84.96,5934,60,15,19,1,85,6114,97%,,"'County50': {'population': 6114, 'white': 5934, 'latitude': 38.94, 'longitude': -84.96, 'county_name': 'Ohio County'},","'County50': {'population': 6114, 'white': 5934, 'latitude': 38.94, 'longitude': -84.96, 'county_name': 'Ohio County'},"
+51,Randolph County,6,40.16,-84.98,23611,228,124,104,18,352,24437,97%,,"'County51': {'population': 24437, 'white': 23611, 'latitude': 40.16, 'longitude': -84.98, 'county_name': 'Randolph County'},","'County51': {'population': 24437, 'white': 23611, 'latitude': 40.16, 'longitude': -84.98, 'county_name': 'Randolph County'},"
+52,Ripley County,9,39.07,-85.26,28180,168,111,243,5,380,29087,97%,,"'County52': {'population': 29087, 'white': 28180, 'latitude': 39.07, 'longitude': -85.26, 'county_name': 'Ripley County'},","'County52': {'population': 29087, 'white': 28180, 'latitude': 39.07, 'longitude': -85.26, 'county_name': 'Ripley County'},"
+53,Rush County,6,39.61,-85.45,16140,182,70,66,7,208,16673,97%,,"'County53': {'population': 16673, 'white': 16140, 'latitude': 39.61, 'longitude': -85.45, 'county_name': 'Rush County'},","'County53': {'population': 16673, 'white': 16140, 'latitude': 39.61, 'longitude': -85.45, 'county_name': 'Rush County'},"
+54,Scott County,9,38.68,-85.77,23767,189,94,225,18,295,24588,97%,,"'County54': {'population': 24588, 'white': 23767, 'latitude': 38.68, 'longitude': -85.77, 'county_name': 'Scott County'},","'County54': {'population': 24588, 'white': 23767, 'latitude': 38.68, 'longitude': -85.77, 'county_name': 'Scott County'},"
+55,Shelby County,6,39.52,-85.77,42922,742,166,418,67,676,44991,95%,,"'County55': {'population': 44991, 'white': 42922, 'latitude': 39.52, 'longitude': -85.77, 'county_name': 'Shelby County'},","'County55': {'population': 44991, 'white': 42922, 'latitude': 39.52, 'longitude': -85.77, 'county_name': 'Shelby County'},"
+56,Switzerland County,9,38.82,-85.06,9657,122,50,38,6,133,10006,97%,,"'County56': {'population': 10006, 'white': 9657, 'latitude': 38.82, 'longitude': -85.06, 'county_name': 'Switzerland County'},","'County56': {'population': 10006, 'white': 9657, 'latitude': 38.82, 'longitude': -85.06, 'county_name': 'Switzerland County'},"
+57,Union County,6,39.63,-84.92,6695,85,25,28,4,115,6952,96%,,"'County57': {'population': 6952, 'white': 6695, 'latitude': 39.63, 'longitude': -84.92, 'county_name': 'Union County'},","'County57': {'population': 6952, 'white': 6695, 'latitude': 39.63, 'longitude': -84.92, 'county_name': 'Union County'},"
+58,Wayne County,6,39.86,-85,59575,3342,268,786,49,2253,66273,90%,,"'County58': {'population': 66273, 'white': 59575, 'latitude': 39.86, 'longitude': -85, 'county_name': 'Wayne County'},","'County58': {'population': 66273, 'white': 59575, 'latitude': 39.86, 'longitude': -85, 'county_name': 'Wayne County'},"
+59,Marion County,7,39.78,-86.15,599905,290447,4474,42260,473,31907,969466,62%,,"'County59': {'population': 969466, 'white': 599905, 'latitude': 39.78, 'longitude': -86.15, 'county_name': 'Marion County'},","'County59': {'population': 969466, 'white': 599905, 'latitude': 39.78, 'longitude': -86.15, 'county_name': 'Marion County'},"
+60,Fountain County,8,40.12,-87.23,16046,139,68,88,14,219,16574,97%,,"'County60': {'population': 16574, 'white': 16046, 'latitude': 40.12, 'longitude': -87.23, 'county_name': 'Fountain County'},","'County60': {'population': 16574, 'white': 16046, 'latitude': 40.12, 'longitude': -87.23, 'county_name': 'Fountain County'},"
+61,Clay County,8,39.39,-87.11,25498,245,102,101,8,425,26379,97%,,"'County61': {'population': 26379, 'white': 25498, 'latitude': 39.39, 'longitude': -87.11, 'county_name': 'Clay County'},","'County61': {'population': 26379, 'white': 25498, 'latitude': 39.39, 'longitude': -87.11, 'county_name': 'Clay County'},"
+62,Daviess County,8,38.69,-87.05,31661,807,261,162,41,486,33418,95%,,"'County62': {'population': 33418, 'white': 31661, 'latitude': 38.69, 'longitude': -87.05, 'county_name': 'Daviess County'},","'County62': {'population': 33418, 'white': 31661, 'latitude': 38.69, 'longitude': -87.05, 'county_name': 'Daviess County'},"
+63,Dubois County,8,38.36,-86.87,42225,468,153,323,72,391,43632,97%,,"'County63': {'population': 43632, 'white': 42225, 'latitude': 38.36, 'longitude': -86.87, 'county_name': 'Dubois County'},","'County63': {'population': 43632, 'white': 42225, 'latitude': 38.36, 'longitude': -86.87, 'county_name': 'Dubois County'},"
+64,Gibson County,8,38.3,-87.58,30928,916,127,216,25,781,32993,94%,,"'County64': {'population': 32993, 'white': 30928, 'latitude': 38.3, 'longitude': -87.58, 'county_name': 'Gibson County'},","'County64': {'population': 32993, 'white': 30928, 'latitude': 38.3, 'longitude': -87.58, 'county_name': 'Gibson County'},"
+65,Greene County,8,39.03,-86.95,30223,123,133,139,9,379,31006,97%,,"'County65': {'population': 31006, 'white': 30223, 'latitude': 39.03, 'longitude': -86.95, 'county_name': 'Greene County'},","'County65': {'population': 31006, 'white': 30223, 'latitude': 39.03, 'longitude': -86.95, 'county_name': 'Greene County'},"
+66,Knox County,8,38.68,-87.42,33587,1110,139,359,17,577,35789,94%,,"'County66': {'population': 35789, 'white': 33587, 'latitude': 38.68, 'longitude': -87.42, 'county_name': 'Knox County'},","'County66': {'population': 35789, 'white': 33587, 'latitude': 38.68, 'longitude': -87.42, 'county_name': 'Knox County'},"
+67,Martin County,8,38.7,-86.79,9522,62,43,62,2,112,9803,97%,,"'County67': {'population': 9803, 'white': 9522, 'latitude': 38.7, 'longitude': -86.79, 'county_name': 'Martin County'},","'County67': {'population': 9803, 'white': 9522, 'latitude': 38.7, 'longitude': -86.79, 'county_name': 'Martin County'},"
+68,Owen County,8,39.29,-86.84,20796,143,87,121,1,334,21482,97%,,"'County68': {'population': 21482, 'white': 20796, 'latitude': 39.29, 'longitude': -86.84, 'county_name': 'Owen County'},","'County68': {'population': 21482, 'white': 20796, 'latitude': 39.29, 'longitude': -86.84, 'county_name': 'Owen County'},"
+69,Parke County,8,39.77,-87.2,15715,345,86,36,4,183,16369,96%,,"'County69': {'population': 16369, 'white': 15715, 'latitude': 39.77, 'longitude': -87.2, 'county_name': 'Parke County'},","'County69': {'population': 16369, 'white': 15715, 'latitude': 39.77, 'longitude': -87.2, 'county_name': 'Parke County'},"
+70,Perry County,8,38.1,-86.64,18095,627,58,154,14,235,19183,94%,,"'County70': {'population': 19183, 'white': 18095, 'latitude': 38.1, 'longitude': -86.64, 'county_name': 'Perry County'},","'County70': {'population': 19183, 'white': 18095, 'latitude': 38.1, 'longitude': -86.64, 'county_name': 'Perry County'},"
+71,Pike County,8,38.4,-87.23,11803,102,45,63,8,147,12168,97%,,"'County71': {'population': 12168, 'white': 11803, 'latitude': 38.4, 'longitude': -87.23, 'county_name': 'Pike County'},","'County71': {'population': 12168, 'white': 11803, 'latitude': 38.4, 'longitude': -87.23, 'county_name': 'Pike County'},"
+72,Posey County,8,38.17,-87.78,24206,281,74,148,6,348,25063,97%,,"'County72': {'population': 25063, 'white': 24206, 'latitude': 38.17, 'longitude': -87.78, 'county_name': 'Posey County'},","'County72': {'population': 25063, 'white': 24206, 'latitude': 38.17, 'longitude': -87.78, 'county_name': 'Posey County'},"
+73,Spencer County,8,38,-86.92,19355,200,75,75,1,261,19967,97%,,"'County73': {'population': 19967, 'white': 19355, 'latitude': 38, 'longitude': -86.92, 'county_name': 'Spencer County'},","'County73': {'population': 19967, 'white': 19355, 'latitude': 38, 'longitude': -86.92, 'county_name': 'Spencer County'},"
+74,Sullivan County,8,39.09,-87.41,19166,1066,77,63,7,291,20670,93%,,"'County74': {'population': 20670, 'white': 19166, 'latitude': 39.09, 'longitude': -87.41, 'county_name': 'Sullivan County'},","'County74': {'population': 20670, 'white': 19166, 'latitude': 39.09, 'longitude': -87.41, 'county_name': 'Sullivan County'},"
+75,Vanderburgh County,8,37.98,-87.58,151876,18498,566,2571,611,5622,179744,84%,,"'County75': {'population': 179744, 'white': 151876, 'latitude': 37.98, 'longitude': -87.58, 'county_name': 'Vanderburgh County'},","'County75': {'population': 179744, 'white': 151876, 'latitude': 37.98, 'longitude': -87.58, 'county_name': 'Vanderburgh County'},"
+76,Vermillion County,8,39.85,-87.47,14974,103,61,48,10,255,15451,97%,,"'County76': {'population': 15451, 'white': 14974, 'latitude': 39.85, 'longitude': -87.47, 'county_name': 'Vermillion County'},","'County76': {'population': 15451, 'white': 14974, 'latitude': 39.85, 'longitude': -87.47, 'county_name': 'Vermillion County'},"
+77,Vigo County,8,39.42,-87.39,93001,7369,446,2294,72,2824,106006,88%,,"'County77': {'population': 106006, 'white': 93001, 'latitude': 39.42, 'longitude': -87.39, 'county_name': 'Vigo County'},","'County77': {'population': 106006, 'white': 93001, 'latitude': 39.42, 'longitude': -87.39, 'county_name': 'Vigo County'},"
+78,Warrick County,8,38.09,-87.27,60524,1371,199,1829,36,1226,65185,93%,,"'County78': {'population': 65185, 'white': 60524, 'latitude': 38.09, 'longitude': -87.27, 'county_name': 'Warrick County'},","'County78': {'population': 65185, 'white': 60524, 'latitude': 38.09, 'longitude': -87.27, 'county_name': 'Warrick County'},"
+79,Brown County,9,39.2,-86.23,14991,132,76,85,3,283,15570,96%,,"'County79': {'population': 15570, 'white': 14991, 'latitude': 39.2, 'longitude': -86.23, 'county_name': 'Brown County'},","'County79': {'population': 15570, 'white': 14991, 'latitude': 39.2, 'longitude': -86.23, 'county_name': 'Brown County'},"
+80,Clark County,9,38.48,-85.67,107545,10628,574,1650,160,3680,124237,87%,,"'County80': {'population': 124237, 'white': 107545, 'latitude': 38.48, 'longitude': -85.67, 'county_name': 'Clark County'},","'County80': {'population': 124237, 'white': 107545, 'latitude': 38.48, 'longitude': -85.67, 'county_name': 'Clark County'},"
+81,Crawford County,8,38.29,-86.34,10192,94,54,28,12,156,10536,97%,,"'County81': {'population': 10536, 'white': 10192, 'latitude': 38.29, 'longitude': -86.34, 'county_name': 'Crawford County'},","'County81': {'population': 10536, 'white': 10192, 'latitude': 38.29, 'longitude': -86.34, 'county_name': 'Crawford County'},"
+82,Floyd County,9,38.32,-85.9,72543,4598,323,1110,42,2098,80714,90%,,"'County82': {'population': 80714, 'white': 72543, 'latitude': 38.32, 'longitude': -85.9, 'county_name': 'Floyd County'},","'County82': {'population': 80714, 'white': 72543, 'latitude': 38.32, 'longitude': -85.9, 'county_name': 'Floyd County'},"
+83,Harrison County,9,38.19,-86.11,38493,343,135,246,25,609,39851,97%,,"'County83': {'population': 39851, 'white': 38493, 'latitude': 38.19, 'longitude': -86.11, 'county_name': 'Harrison County'},","'County83': {'population': 39851, 'white': 38493, 'latitude': 38.19, 'longitude': -86.11, 'county_name': 'Harrison County'},"
+84,Jackson County,9,38.88,-86.04,43281,720,320,1310,81,588,46300,93%,,"'County84': {'population': 46300, 'white': 43281, 'latitude': 38.88, 'longitude': -86.04, 'county_name': 'Jackson County'},","'County84': {'population': 46300, 'white': 43281, 'latitude': 38.88, 'longitude': -86.04, 'county_name': 'Jackson County'},"
+85,Johnson County,6,39.49,-86.06,146647,5644,556,9276,152,3507,165782,88%,,"'County85': {'population': 165782, 'white': 146647, 'latitude': 39.49, 'longitude': -86.06, 'county_name': 'Johnson County'},","'County85': {'population': 165782, 'white': 146647, 'latitude': 39.49, 'longitude': -86.06, 'county_name': 'Johnson County'},"
+86,Lawrence County,9,38.84,-86.48,43726,289,231,299,18,659,45222,97%,,"'County86': {'population': 45222, 'white': 43726, 'latitude': 38.84, 'longitude': -86.48, 'county_name': 'Lawrence County'},","'County86': {'population': 45222, 'white': 43726, 'latitude': 38.84, 'longitude': -86.48, 'county_name': 'Lawrence County'},"
+87,Monroe County,9,39.16,-86.52,120020,5475,458,9627,116,4049,139745,86%,,"'County87': {'population': 139745, 'white': 120020, 'latitude': 39.16, 'longitude': -86.52, 'county_name': 'Monroe County'},","'County87': {'population': 139745, 'white': 120020, 'latitude': 39.16, 'longitude': -86.52, 'county_name': 'Monroe County'},"
+88,Morgan County,4,39.48,-86.44,69788,662,264,558,33,931,72236,97%,,"'County88': {'population': 72236, 'white': 69788, 'latitude': 39.48, 'longitude': -86.44, 'county_name': 'Morgan County'},","'County88': {'population': 72236, 'white': 69788, 'latitude': 39.48, 'longitude': -86.44, 'county_name': 'Morgan County'},"
+89,Orange County,8,38.55,-86.49,18833,319,92,84,5,290,19623,96%,,"'County89': {'population': 19623, 'white': 18833, 'latitude': 38.55, 'longitude': -86.49, 'county_name': 'Orange County'},","'County89': {'population': 19623, 'white': 18833, 'latitude': 38.55, 'longitude': -86.49, 'county_name': 'Orange County'},"
+90,Washington County,9,38.6,-86.1,27487,204,92,85,6,350,28224,97%,,"'County90': {'population': 28224, 'white': 27487, 'latitude': 38.6, 'longitude': -86.1, 'county_name': 'Washington County'},","'County90': {'population': 28224, 'white': 27487, 'latitude': 38.6, 'longitude': -86.1, 'county_name': 'Washington County'},"
+91,Whitley County,3,41.14,-85.5,33492,243,140,186,13,553,34627,97%,,"'County91': {'population': 34627, 'white': 33492, 'latitude': 41.14, 'longitude': -85.5, 'county_name': 'Whitley County'},","'County91': {'population': 34627, 'white': 33492, 'latitude': 41.14, 'longitude': -85.5, 'county_name': 'Whitley County'},"
+92,White County,4,40.75,-86.76,23584,316,168,162,13,355,24598,96%,,"'County92': {'population': 24598, 'white': 23584, 'latitude': 40.75, 'longitude': -86.76, 'county_name': 'White County'},","'County92': {'population': 24598, 'white': 23584, 'latitude': 40.75, 'longitude': -86.76, 'county_name': 'White County'},"
