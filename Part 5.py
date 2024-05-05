@@ -1,8 +1,9 @@
 import geopandas as gpd
 import matplotlib.pyplot as plt
+import pandas as pd
 
 # Load shapefile of Indiana counties
-indiana_counties = gpd.read_file("indiana_boundary_uscb_2020_tl_2020_18_state20.shp")
+indiana_counties = gpd.read_file("indiana_boundary_uscb_2020_tl_2020_18_state20.shx")
 
 # Load redistricting data
 redistricting_data = pd.read_csv("path/to/redistricting_data.csv")
