@@ -6,7 +6,7 @@ Executive Summary:
 
  ***Map Included in Repository***
 
-	The nine congressional districts had populations ranging from a minimum of 544,918 people to a maximum of 985,036 people. Out of the five constraints that were explored, constraint 1 and constraint 2 were satisfied, while constraint 3 and constraint 4 resulted in infeasible solutions and constraint 5 could not be implemented due to a lack of computational resources. Future directions must find computationally accessible solutions that implement constraint 5 before this solution (refer to the choropleth map) can be recommended to Indiana’s state legislature. 
+The nine congressional districts had populations ranging from a minimum of 544,918 people to a maximum of 985,036 people. Out of the five constraints that were explored, constraint 1 and constraint 2 were satisfied, while constraint 3 and constraint 4 resulted in infeasible solutions and constraint 5 could not be implemented due to a lack of computational resources. Future directions must find computationally accessible solutions that implement constraint 5 before this solution (refer to the choropleth map) can be recommended to Indiana’s state legislature. 
  
 Method:
 	Data were pulled from an Indiana state government database (Staff, 2021) that relied on data collected by the US 2020 Population Census. The dataset contained data about Indiana counties, latitude and longitude information, racial and ethnic composition, and total population per county.  All analyses were conducted in Spyder/Python using the pulp, pandas, pyproj, geopandas, and matplotlib packages.
